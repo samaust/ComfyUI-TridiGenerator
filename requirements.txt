@@ -1,0 +1,5 @@
+mediapy
+numpy
+pygltflib @ git+https://github.com/samaust/pygltflib@refactor
+rembg
+torch
